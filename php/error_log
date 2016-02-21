@@ -1,0 +1,22 @@
+[22-Dec-2012 23:22:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'com1444'@'localhost' (using password: YES) in /home/mehrdus1/public_html/Coursework_Comp1444/php/list_posts.php on line 27
+[25-Dec-2012 15:11:32] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mehrdus1/public_html/Coursework_Comp1444/php/RegisterUser.php on line 33
+[30-Dec-2012 01:53:29] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mehrdus1/public_html/Coursework_Comp1444/php/RegisterUser.php on line 33
+[30-Dec-2012 02:00:09] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mehrdus1/public_html/Coursework_Comp1444/php/submit_post_reply.php on line 37
+[24-Mar-2013 20:48:51 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mehrdus1/public_html/Coursework_Comp1444/php/RegisterUser.php on line 33
+[01-Jun-2013 22:56:26 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mehrdus1/public_html/Coursework_Comp1444/php/RegisterUser.php on line 33
+[23-Jan-2016 22:08:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Jan-2016 22:08:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Jan-2016 21:43:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Jan-2016 15:36:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Jan-2016 15:36:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[08-Feb-2016 10:41:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[08-Feb-2016 10:41:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Feb-2016 14:08:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Feb-2016 14:08:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-Feb-2016 07:23:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[16-Feb-2016 10:47:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[16-Feb-2016 19:32:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 23:03:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 06:19:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Feb-2016 06:19:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Feb-2016 06:19:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
